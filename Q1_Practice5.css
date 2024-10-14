@@ -1,0 +1,30 @@
+#container1{
+	background-color: #697565;
+	text-align: center;
+}
+.container2{
+	background-color: #ECDFCC ;
+    width: 308px;
+    padding: 20px;
+    Margin:auto;
+    box-shadow:2px 2px 15px rgba(0,0,0, 0.8);
+}
+
+body{
+	background:url('https://img.freepik.com/free-vector/abstract-organic-pattern-design-background_1048-19286.jpg?w=740&t=st=1726457760~exp=1726458360~hmac=17c8e43cb30124abbda93bbee8971049be487b46d827786a3a550dd06e7c5319') ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+#submit{
+	border-radius: 10px;
+	background-color: white;
+	font-size: 13px;
+	cursor:pointer;
+}
+
+label{
+	font-size: 15px;
+	font-family: Consolas;
+}
